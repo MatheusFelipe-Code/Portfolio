@@ -52,5 +52,4 @@ Este site foi construído utilizando:
 * CSS3 (com SASS, conforme `package.json`)
 * JavaScript
 * jQuery
-* Owl Carousel
 * Formspree (para o formulário de contato)
